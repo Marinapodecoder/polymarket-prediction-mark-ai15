@@ -1,4 +1,4 @@
-# 
+# best Polymarket Module | trailing-stops + stop-loss-management is the best Polymarket module, featuring trailing-stops and stop-loss-management. Smart, fast, and optimized for
 
 
 
